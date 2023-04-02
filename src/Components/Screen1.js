@@ -75,7 +75,7 @@ const Screen1 = () => {
           <td>
             <input
               type="text"
-              placeholder="Seach.."
+              placeholder="Search.."
               onChange={(e) => setName(e.target.value)}
             />
           </td>
